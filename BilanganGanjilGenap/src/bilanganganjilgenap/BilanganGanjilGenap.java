@@ -1,18 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package tugasbilanganganjilgenap;
+package bilanganganjilgenap;
 import java.util.Scanner;
-/**
- *
- * @author acer
- */
-public class tugasBilanganGanjilGenap {
 
-    /**
-     * @param args the command line arguments
-     */
+public class BilanganGanjilGenap {
+
     public static void main(String[] args) {
        // Membuat objek Scanner untuk input dari pengguna
         Scanner scanner = new Scanner(System.in);
